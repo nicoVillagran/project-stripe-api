@@ -1,6 +1,6 @@
 # TacoMex Payments - A Stripe API-Powered Taco Ordering Platform
 
-> **Important:** A valid card number providen by Stripe is _4242 4242 4242 4242 4242_
+> **Important:** A valid card number providen by Stripe is `4242 4242 4242 4242 4242`
 
 ## Description
 
